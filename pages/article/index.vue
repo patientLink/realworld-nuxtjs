@@ -16,7 +16,7 @@
     </div>
   </div>
 
-  <div class="container page">
+  <div class="container page" >
 
     <div class="row article-content">
       <div class="col-md-12" v-html="article.body"></div>
